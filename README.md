@@ -1,6 +1,6 @@
 Diamond Price Predictor
 
-Bu proje, makine öğrenmesi tekniklerini kullanarak elmas fiyatlarını tahmin etmeyi amaçlamaktadır.
+Bu proje, makine öğrenmesi tekniklerini kullanarak MOTORSİKLET fiyatlarını tahmin etmeyi amaçlamaktadır.
 
 Kurulum
 
