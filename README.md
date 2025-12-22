@@ -1,4 +1,4 @@
-Diamond Price Predictor
+Motobike Price Predictor
 
 Bu proje, makine öğrenmesi tekniklerini kullanarak MOTORSİKLET fiyatlarını tahmin etmeyi amaçlamaktadır.
 
