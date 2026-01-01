@@ -17,3 +17,4 @@ Yazar
 
 Cihan Tatar
 tatarcihan25@hotmail.com
+(Name kolonuna frequency ile encode yapıp daha yuksek sonuc alabılırsınız! fark yüksek olmadıgı ıcın label encode olarak bırakılmıstır.)
